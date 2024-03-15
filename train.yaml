@@ -1,0 +1,12 @@
+path: /home/ivan/project/python/neural_netwok/number_plate_yolo/data/train
+train: 
+  - image/train
+
+val: 
+  - image/train
+
+
+nc: 1
+
+names:
+  0: plate
